@@ -53,7 +53,7 @@ Stored and accessed the file on Google Sheets.
 ---
 
 🖼️ Screenshot
-![Screenshot](cloud_accounting_dashboard.jpg)
+![Screenshot](cloud_accounting_dashbord.jpg)
 
 
 ---
