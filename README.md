@@ -53,8 +53,7 @@ Stored and accessed the file on Google Sheets.
 ---
 
 🖼️ Screenshot
-
-
+![Screenshot](accounting_dashboard.jpg)
 
 
 ---
